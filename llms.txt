@@ -1,0 +1,19 @@
+# Diagnostic Poste numérique et multi-IA — Mohamed MORCHID
+
+> Offre de diagnostic indépendant pour organiser les outils, fichiers, sauvegardes, usages IA, rôles et priorités de sécurité d’un professionnel ou d’une petite organisation.
+
+- Auteur et prestataire : Mohamed MORCHID
+- Localisation publique : Settat, Maroc
+- Contact : contact@morchidi.digital
+- Intervention : à distance par défaut ; déplacements au Maroc sur devis
+- Formules de lancement : Essentiel 350 MAD ; Professionnel 900 MAD ; Organisation 1 800 MAD
+- Aucune garantie de revenu, financement ou résultat externe
+- Aucun mot de passe ne doit être transmis
+
+## Pages
+
+- Accueil : /
+- Questionnaire initial : /questionnaire.html
+- Questions fréquentes : /faq.html
+- Confidentialité et limites : /confidentialite.html
+- Contact : /contact.html
